@@ -8,7 +8,7 @@ function pow(a, b) {
     return result;
   }
   
-  let a = prompt("a?", '');
+  let a = prompt("a?", '')
   let b = prompt("b?", '');
   
   if (b < 1) {
@@ -16,3 +16,7 @@ function pow(a, b) {
   } else {
     alert( pow(a, b) );
   }
+
+  //test test test
+
+  //marakesh
